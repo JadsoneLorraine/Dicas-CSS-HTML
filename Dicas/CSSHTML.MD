@@ -1,11 +1,12 @@
 # Centralizando uma div:
 ##  HTML
 
-```<div class="minhaClasse">
+```
+<div class="minhaClasse">
     <p>
         Texto de exemplo
     </p>
-</div>```
+</div>
 ```
 
 
