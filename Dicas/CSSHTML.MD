@@ -1,11 +1,13 @@
 # Centralizando uma div:
 ##  HTML
 
-<div class="minhaClasse">
+```<div class="minhaClasse">
     <p>
         Texto de exemplo
     </p>
-</div>
+</div>```
+```
+
 
 ## CSS
 
@@ -15,7 +17,7 @@ width: 200px;
 
 padding: center;
 
-margi: auto;
+margin: auto;
 
 background-color: red
 
